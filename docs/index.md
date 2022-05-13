@@ -29,7 +29,7 @@ Large amounts of biological data are continuously created, processed and transfo
 | TBD | 5’ | Comfort break | |
 | TBD | 15’ | FAIRness for ML | Daniel S. Katz (TBC) |
 | TBD | 15’ | Best practices for Machine Learning | TBC | 
-| TBD | 10’ | Gathering views from participants on challenges and opportunities | All participants via virtual means |
+| TBD | 10’ | Gathering views from participants on challenges and opportunities | All participants |
 | TBD | 25’ | Coffee break | |
 | TBD | 60’ | Panel discussion on challenges and opportunities | Speakers and communities (e.g., ML4Microbiome, IDP, CLAIRE, NFDI4DataScience) | 
 | TBD | 5’ | Comfort break | |
