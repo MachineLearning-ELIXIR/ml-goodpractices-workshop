@@ -1,4 +1,4 @@
-# Workshop on Machine Learning good practices
+# Workshop on Machine Learning Good Practices
 _[DOME recommendations](https://dome-ml.org/) for better Machine Learning in Computational Biology_
 
 _virtually co-located with the [21st European Conference on Computational Biology (ECCB 2022)](https://eccb2022.org/)_
