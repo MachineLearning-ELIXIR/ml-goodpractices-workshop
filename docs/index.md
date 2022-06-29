@@ -31,11 +31,11 @@ Large amounts of biological data are continuously created, processed and transfo
 | 14:15 | 15’ | Challenges for AI in life sciences | Macha Nikolski | 
 | 14:30 | 15’ | Invited talk | Invited speaker | 
 | 14:45 | 05’ | Comfort break | All |
-| 14:50 | 15’ | Gathering views from participants on challenges and opportunities | All |
-| 15:05 | 60’ | Panel discussion on challenges and opportunities | Invited speakers and panelists | 
-| 16:05 | 05’ | Comfort break | |
-| 16:10 | 15’ | Gathering views on how participants can engage with opportunities and react to challenges | All |
-| 16:25 | 05’ | Wrap-up | Leyla Jael Castro | 
+| 14:50 | 10’ | Gathering views from participants on challenges and opportunities | All |
+| 15:00 | 60’ | Panel discussion on challenges and opportunities | Invited speakers and panelists | 
+| 16:00 | 05’ | Comfort break | |
+| 16:05 | 10’ | Gathering views on how participants can engage with opportunities and react to challenges | All |
+| 16:15 | 15’ | Wrap-up | Leyla Jael Castro | 
 | 16:30 | 30' | Coffee break and finding the next workshop location | All |
 
 
