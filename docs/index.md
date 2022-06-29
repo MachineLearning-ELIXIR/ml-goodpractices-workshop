@@ -5,7 +5,7 @@ _virtually co-located with the [21st European Conference on Computational Biolog
 
 This discussion-based workshop will focus on (i) Standards for reporting Machine Learning approaches on Life Sciences, particularly the DOME recommendations, (ii) FAIRness for Machine Learning, and (iii) Best practices around Machine Learning. 
 
-* When: 12 Sept 2022, time TBD
+* When: 12 Sept 2022, 13:30 to 16:30 CEST ([starting](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T1130) and [ending](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220912T1430) time in your own time zone)
 * Where: Connection details will be shared with registered attendees
 * Registration: Visit the [ECCB 2022 registration page](https://eccb2022.org/registration/)
 * [Description](#description)
@@ -22,29 +22,34 @@ Large amounts of biological data are continuously created, processed and transfo
 
 ## Agenda
 
-| Sarting at | Length | Activity | Participant | 
+| Starting at (CEST) | Length | Activity | Participant | 
 | ---------- | ------ | -------- | ----------- |
-| TBD | 10’ | Welcoming and introduction to the workshop | Organizing committee | 
-| TBD | 15’ | Standards for reporting ML in LS | Jennifer Harrow/Fotis Psomopoulos | 
-| TBD | 5’ | Comfort break | |
-| TBD | 15’ | FAIRness for ML | Daniel S. Katz (TBC) |
-| TBD | 15’ | Best practices for Machine Learning | TBC | 
-| TBD | 10’ | Gathering views from participants on challenges and opportunities | All participants |
-| TBD | 25’ | Coffee break | |
-| TBD | 60’ | Panel discussion on challenges and opportunities | Speakers and communities (e.g., ML4Microbiome, IDP, CLAIRE, NFDI4DataScience) | 
-| TBD | 5’ | Comfort break | |
-| TBD | 10’ | Gathering views on how participants can engage with opportunities and react to challenges | All participants |
-| TBD | 30’ | Wrap-up | Organizing committee | 
+| 13:30 | 10’ | Welcoming and introduction to the workshop | Leyla Jael Castro | 
+| 13:40 | 15’ | Standards for reporting ML in LS | Fotis Psomopoulos | 
+| 13:55 | 15’ | FAIRness for ML | Daniel S. Katz |
+| 14:10 | 05’ | Comfort break | All |
+| 14:15 | 15’ | Challenges for AI in life sciences | Macha Nikolski | 
+| 14:30 | 15’ | Invited talk | Invited speaker | 
+| 14:45 | 05’ | Comfort break | All |
+| 14:50 | 15’ | Gathering views from participants on challenges and opportunities | All |
+| 15:05 | 60’ | Panel discussion on challenges and opportunities | Speakers and invited panelists | 
+| 16:05 | 05’ | Comfort break | |
+| 16:10 | 15’ | Gathering views on how participants can engage with opportunities and react to challenges | All |
+| 16:25 | 05’ | Wrap-up | Leyla Jael Castro | 
+| 16:30 | 30' | Coffee break and finding the next workshop location | All |
 
 
 ## Invited speakers
 
-TBC
+| --- | --- |
+| ![Fotis Psomopoulos](../images/fotis.png)<br/>Fotis Psomopoulos | Principal Investigator at the [Institute of Applied Biosciences, Centre for Research and Technology Hellas (CERTH)](https://www.inab.certh.gr/). His research interests lay across three major pillars; (1) Bioinformatics (Phylogenetic profiles and RNA-Seq data analysis) (2) data mining methods and big data techniques for Life Sciences data, and (3) Grid / Cloud Computing, and EGI resources in particular. |
+| ![Daniel S. Katz](../images/dkatz.png)<br/>Daniel S. Katz | Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. His research interests are in applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues, including citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He co-founded the Journal of Open Source Software, the US RSE Association, and the Research Software Alliance (ReSA), and co-leads the FORCE11 Software Citation Implementation Working Group and the FORCE11/RDA/ReSA Fair for Research Software group. |
+| ![Macha Nikolski](../images/avatar.jpg)<br/>Macha Nikolski | Head of the [Computation Biology and Bioinformatics Lab](https://bordeaux-bioinformatics.fr/) at the CNRS institute in Bordeaux  |
 
 
 ## Organizing Committee
 
-This discussion-focused workshop is organized by the [RDA FAIR for Research Software (FAIR4RS) Working Group (WG)](https://www.rd-alliance.org/node/69317), jointly convened by [Research Software Alliance (ReSA)](https://www.researchsoft.org/taskforces/), [FORCE11](https://www.force11.org/group/fair-4-research-software-fair4rs-working-group) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org/node/69317).
+This discussion-focused workshop is organized by the [Machine Learning Focus Group](https://elixir-europe.org/focus-groups/machine-learning), part of the [ELIXIR Tools Platform](https://elixir-europe.org/platforms/tools).
 
 | Name | Affiliation | Short description |
 | ---- | ----------- | ----------------- |
