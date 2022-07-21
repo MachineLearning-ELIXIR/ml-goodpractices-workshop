@@ -29,22 +29,24 @@ Large amounts of biological data are continuously created, processed and transfo
 | 13:55 | 15’ | FAIRness for ML | Daniel S. Katz |
 | 14:10 | 05’ | Comfort break | All |
 | 14:15 | 15’ | Challenges for AI in life sciences | Macha Nikolski | 
-| 14:30 | 15’ | Invited talk | Invited speaker | 
-| 14:45 | 05’ | Comfort break | All |
-| 14:50 | 10’ | Gathering views from participants on challenges and opportunities | All |
-| 15:00 | 60’ | Panel discussion on challenges and opportunities | Invited speakers and panelists | 
-| 16:00 | 05’ | Comfort break | |
-| 16:05 | 10’ | Gathering views on how participants can engage with opportunities and react to challenges | All |
-| 16:15 | 15’ | Wrap-up | Leyla Jael Castro | 
+| 14:30 | 15’ | Invited talk | Purvesh Khatri | 
+| 14:45 | 15’ | Invited talk | Chas Nelson | 
+| 15:00 | 05’ | Comfort break | All |
+| 15:05 | 10’ | Overview on challenges and opportunities (input gathered from participants)| Leyla Jael Castro |
+| 15:15 | 60’ | Panel discussion on challenges and opportunities | Invited speakers and panelists | 
+| 16:15 | 05’ | Comfort break | |
+| 16:20 | 10’ | Wrap-up | Leyla Jael Castro | 
 | 16:30 | 30' | Coffee break and finding the next workshop location | All |
 
 
 ## Invited speakers
 
 | --- | --- |
-| ![Fotis Psomopoulos](./fotis.png)<br/>Fotis Psomopoulos | Principal Investigator at the [Institute of Applied Biosciences, Centre for Research and Technology Hellas (CERTH)](https://www.inab.certh.gr/). His research interests lay across three major pillars; (1) Bioinformatics (Phylogenetic profiles and RNA-Seq data analysis) (2) data mining methods and big data techniques for Life Sciences data, and (3) Grid / Cloud Computing, and EGI resources in particular. |
-| ![Daniel S. Katz](./dkatz.png)<br/>Daniel S. Katz | Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. His research interests are in applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues, including citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He co-founded the Journal of Open Source Software, the US RSE Association, and the Research Software Alliance (ReSA), and co-leads the FORCE11 Software Citation Implementation Working Group and the FORCE11/RDA/ReSA Fair for Research Software group. |
-| ![Macha Nikolski](./avatar.jpg)<br/>Macha Nikolski | Head of the [Computation Biology and Bioinformatics Lab](https://bordeaux-bioinformatics.fr/) at the CNRS institute in Bordeaux  |
+| ![Fotis Psomopoulos](./images/fotis.png)<br/>Fotis Psomopoulos | Principal Investigator at the [Institute of Applied Biosciences, Centre for Research and Technology Hellas (CERTH)](https://www.inab.certh.gr/). His research interests lay across three major pillars; (1) Bioinformatics (Phylogenetic profiles and RNA-Seq data analysis) (2) data mining methods and big data techniques for Life Sciences data, and (3) Grid / Cloud Computing, and EGI resources in particular. |
+| ![Daniel S. Katz](./images/dkatz.png)<br/>Daniel S. Katz | Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. His research interests are in applications, algorithms, fault tolerance, and programming in parallel and distributed computing, and policy issues, including citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He co-founded the Journal of Open Source Software, the US RSE Association, and the Research Software Alliance (ReSA), and co-leads the FORCE11 Software Citation Implementation Working Group and the FORCE11/RDA/ReSA Fair for Research Software group. |
+| ![Macha Nikolski](./images/avatar.jpg)<br/>Macha Nikolski | Head of the [Computation Biology and Bioinformatics Lab](https://bordeaux-bioinformatics.fr/) at the CNRS institute in Bordeaux  |
+| ![Purvesh Khatri](./images/avatar.jpg)<br/>Purvesh Khatri | Associate Pofessor of Medicine and of Biomedical Data Science at  Santford University - [KathriLab](https://khatrilab.stanford.edu/)  |
+| ![Chas Nelson](./images/avatar.jpg)<br/>Chas Nelson | CTO, Founder and Director of [gliff.ai](https://gliff.ai/) |
 
 
 ## Organizing Committee
@@ -59,4 +61,7 @@ This discussion-focused workshop is organized by the [Machine Learning Focus Gro
 | Leyla Jael G. Castro | [ZB MED Information Centre for Life Sciences](https://www.zbmed.de/en/) | Semantic retrieval team leader at ZB MED Information Centre for Life Sciences in Cologne, Germany. She has participated in initiatives related to FAIRness for research software and recommendations for research open software. She has co-organized multiple workshops (e.g., [FAIReScience 2021](https://researchsoft.github.io/FAIReScience/), [DaMaLOS 2020 to 2022](https://zbmed.github.io/damalos/)) and hackathons on life sciences (e.g., [BioHackathon Europe 2018 to 2022](https://biohackathon-europe.org/)). |
 
 
-## Sponsorship
+[![ELIXIR Europe](./images/elixir.png)](URL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![INAB](./images/inab.png)&nbsp;&nbsp;&nbsp;&nbsp;![CERTH](./images/certh.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Uni Padova](./images/unipadova.png)
+
+![NFDI4DS](./images/nfdi4ds.png)&nbsp;&nbsp;&nbsp;&nbsp;![ZB MED](./images/zbmed.png)
+
